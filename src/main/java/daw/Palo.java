@@ -4,11 +4,15 @@
  */
 package daw;
 
+import java.util.Random;
+
 /**
  *
  * @author alejandro
  */
 public enum Palo {
+    
+    
     OROS("Oro", 1),
     BASTOS("Basto", 2),
     ESPADAS("Espada", 3),
